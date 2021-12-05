@@ -1,6 +1,19 @@
 .css-class {
     background-color: fuchsia;
+    border: 5px;
+    border-radius: 33px;
+    position: fixed;
+    margin: 7%;
+    height: 189px;
+    font: "Times New Roman" "Comic Sans" serif;
 }
-#success {
-    background-color: orange;
+
+#maybe {
+    background-color: pink;
+    border: 5px;
+    border-radius: 33px;
+    position: relative;
+    margin: 8%
 }
+   
+
